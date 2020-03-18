@@ -1,0 +1,2 @@
+INTERNAL    FALSE
+EXECUTABLE  ../scripts/csv_export.py
